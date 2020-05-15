@@ -1,0 +1,2 @@
+# emmy
+simple compression utility
